@@ -6,7 +6,7 @@ const temples = [
     { templeName: "Washington D.C.", location: "Kensington, Maryland, United States", dedicated: "1974, November, 19", area: 156558, imageUrl: "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/washington-dc/400x250/washington_dc_temple-exterior-2.jpeg" },
     { templeName: "Lima Perú", location: "Lima, Perú", dedicated: "1986, January, 10", area: 9600, imageUrl: "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/lima-peru/400x250/lima-peru-temple-evening-1075606-wallpaper.jpg" },
     { templeName: "Mexico City Mexico", location: "Mexico City, Mexico", dedicated: "1983, December, 2", area: 116642, imageUrl: "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/mexico-city-mexico/400x250/mexico-city-temple-exterior-1518361-wallpaper.jpg" },
-    { templeName: "Recife Pernambuco", location: "Brasil, Recife", dedicated: "2000, December, 15", area: 2400, imageUrl: "https://i.pinimg.com/originals/03/ed/e1/03ede1f1d70c6668843005cf3ecaf91b.jpg" }
+    { templeName: "Recife Pernambuco", location: "Brasil, Recife", dedicated: "2000, December, 15", area: 37200 , imageUrl: "https://churchofjesuschristtemples.org/assets/img/temples/recife-brazil-temple/recife-brazil-temple-36778-main.jpg" }
 ];
 
 function displayTemples(filteredTemples) {
